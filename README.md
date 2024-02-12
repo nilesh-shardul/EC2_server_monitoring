@@ -184,7 +184,7 @@ Create a user for an employee of the company who requires administrator access t
 ![image](https://github.com/nilesh-shardul/server_monitoring/assets/40804989/d5debd75-125f-4046-acad-3d57ce026071) <br> </br>
 
 
-### Step 2: Write username e.g., MyProject_Administrator_user_1 . As per requirement select -Programmatic access or Console access, password settings e.g., Autogenerate console password, allow user to create new password at first sign-in etc.<br> </br>
+### Step 2: Write username e.g., MyProject_Administrator_user_1 . As per requirement select -Programmatic access or Console access, password settings e.g., Autogenerate console password, allow user to create new password at first sign-in etc.<br> </br>
 
 ![image](https://github.com/nilesh-shardul/server_monitoring/assets/40804989/ee0c94db-e502-4fa4-aa42-23bd146cfac9) <br> </br>
 
